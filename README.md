@@ -4,5 +4,5 @@
 * HTML
 * CSS
 #### Ссылка на роект в GitHub Pages:
-*[Сеть отелей Laoona](https://gresln.github.io/Lagoona-Lionic/)
+* [Сеть отелей Lagoona](https://gresln.github.io/Lagoona-Lionic/)
 
