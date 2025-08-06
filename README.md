@@ -3,6 +3,6 @@
 #### Стек технологий:
 * HTML
 * CSS
-#### Ссылка на роект в GitHub Pages:
+#### Ссылка на проект в GitHub Pages:
 * [Сеть отелей Lagoona](https://gresln.github.io/Lagoona-Lionic/)
 
